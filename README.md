@@ -9,3 +9,4 @@ gem 'jwt'
 
 ## resources
 - https://github.com/jwt/ruby-jwt
+- https://jwt.io/
